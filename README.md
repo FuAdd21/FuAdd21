@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:6366F1&height=200&section=header&text=Fuad%20Aman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Augmented%20Web%20Applications&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://portfolio-sigma-seven-96.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+products+with+AI+at+the+core;Node.js+%2B+React+%2B+PostgreSQL+%2B+pgvector;From+Applied+Biology+to+Applied+Engineering;Open+to+Remote+%26+Freelance+Opportunities&font=Fira+Code&center=true&width=620&height=45&color=6366F1&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+products+with+AI+at+the+core;Node.js+%2B+React+%2B+PostgreSQL+%2B+pgvector;From+Applied+Biology+to+Applied+Engineering;Open+to+Remote+%26+Freelance+Opportunities&font=Fira+Code&center=true&width=750&height=50&color=6366F1&vCenter=true&size=20&pause=1800" alt="Typing SVG" />
 </a>
 
 <br/>
